@@ -1,0 +1,5 @@
+venv
+.DS_Store
+cluster-kubeconfig.yaml
+env
+k8.md
